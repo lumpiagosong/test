@@ -2,8 +2,8 @@
 	{
 		"name": "Hakurei Faction",
 		"leaderName": "Hakurei Reimu",
-		"adjective": ["huh"],
-		"startBias": ["Grassland"],
+		"adjective": ["Hekurei"],
+		"startBias": ["Grassland","Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "hi. yay",
@@ -28,7 +28,8 @@
 
 		"outerColor": [255,0,51],
 		"innerColor": [255,242,245],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Blessings of the Hakurei God",
+		"uniques": ["[+10] [Gold] to unit and building cost"],
 		"cities": ["Hakurei Settlement #1","Hakurei Settlement #2","Hakurei Settlement #3","guh","guh 2","guh 3","four","Surabaya","Bandung","Hakurei Settlement #10"]
 	}
 ]
