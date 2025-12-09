@@ -1,9 +1,6 @@
-All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+The following is from [Wikipedia] (en.wikipedia.org) licenced under either Creative Commons or Public Domain
 
-* [alien] (https://thenounproject.com/term/alien/1820539) by Minh Do
-* [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
-* [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
-* [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
+* [TakaoKomaInu] modified from (https://en.wikipedia.org/wiki/Komainu#/media/File:TakaoKomaInu.jpg) by uhhhh idk actually
 
-The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
-* [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
+The following is from [Youtube] (https://youtube.com) uhhh hehehehe
+* [Punch Sound Effect] from (https://www.youtube.com/shorts/7EHHX2EVi5k) by 
